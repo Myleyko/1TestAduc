@@ -105,3 +105,4 @@ def run_application():
 # Main execution
 if __name__ == "__main__":
     run_application()
+
